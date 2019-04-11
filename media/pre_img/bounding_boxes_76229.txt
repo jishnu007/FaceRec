@@ -1,0 +1,12 @@
+./media/pre_img/Suresh gopi/images (10).png 84 48 164 148
+./media/pre_img/Suresh gopi/is (18).png 9 27 96 139
+./media/pre_img/Suresh gopi/images (8).png 31 63 154 218
+./media/pre_img/Suresh gopi/is (12).png 143 20 196 88
+./media/pre_img/Suresh gopi/is (19).png 5 21 51 78
+./media/pre_img/Suresh gopi/images (4).png 88 16 211 173
+./media/pre_img/Suresh gopi/Suresh_Gopi.png 24 60 122 182
+./media/pre_img/Suresh gopi/images (9).png 48 53 127 157
+./media/pre_img/Suresh gopi/is.png 137 65 210 153
+./media/pre_img/Suresh gopi/download.png 94 31 148 105
+./media/pre_img/Suresh gopi/images (11).png 128 2 251 165
+./media/pre_img/Suresh gopi/Suresh-Gopi.png 136 70 285 277
